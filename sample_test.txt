@@ -1,0 +1,5 @@
+int test = 5;
+printf("hello!");
+while(1){
+    int k = 7;
+}

@@ -1,0 +1,5 @@
+/target
+temp*
+*.o
+*.a
+index.json

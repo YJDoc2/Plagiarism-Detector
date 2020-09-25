@@ -1,0 +1,12 @@
+-----> START SAMPLE ref : www.test1.com/5
+int test = 5;
+if(test){
+    printf("test!\n");
+}else{
+    printf("!test!\n");
+}
+
+-----> START SAMPLE ref : www.test6.com/7
+do{
+    printf("Hello!\n");
+}while(0);
